@@ -44,7 +44,7 @@
             }
         },
         "vmSize": {
-            "defaultValue": "Standard_NC12,
+            "defaultValue": "Standard_NC12",
             "type": "string",
             "metadata": {
                 "description": " The size of interactive compute VM. More details can be found here: https://aka.ms/azureml-vm-details."
